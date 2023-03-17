@@ -1,0 +1,34 @@
+[
+  {
+    "id": "repository.softalks.com",
+    "username": "hiebra",
+    "repository": "kodi",
+    "assets": {
+      "zip": "https://github.com/{username}/{repository}/archive/v{version}.zip"
+    }
+  },
+  {
+    "id": "plugin.executable.hw.softalks.com",
+    "username": "hiebra",
+    "repository": "hw-kodi",
+    "assets": {
+      "zip": "https://github.com/{username}/{repository}/archive/v{version}.zip"
+    }
+  },
+  {
+    "id": "script.module.debug.softalks.com",
+    "username": "hiebra",
+    "repository": "rpdb",
+    "assets": {
+      "zip": "https://github.com/{username}/{repository}/archive/v{version}.zip"
+    }
+  }
+]
+
+
+
+
+
+
+
+
